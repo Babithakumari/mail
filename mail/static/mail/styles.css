@@ -1,0 +1,39 @@
+textarea {
+    min-height: 400px;
+   
+
+}
+
+#sender{
+    margin:15px;
+    
+}
+.view{
+    margin:15px;
+}
+
+.mail {
+    border: 0.5px solid black;
+    margin: 10px;
+    padding: 10px;
+    background-color: yellow;
+}
+
+
+
+#subject{
+    margin-left:20px;
+}
+
+#timestamp{
+    
+    color:grey;
+    float:right;
+
+}
+p{
+    white-space : pre-wrap;
+}
+
+
+
